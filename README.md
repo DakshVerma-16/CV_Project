@@ -540,7 +540,7 @@ PlantDiseaseCV/
 ## 1. Clone the Repository
 
 ```powershell
-git clone https://github.com/RiddhiSharma-06/PlantDiseaseCV.git
+git clone https://github.com/DakshVerma-16/CV_Project.git
 cd PlantDiseaseCV
 ```
 
@@ -788,11 +788,11 @@ Possible future improvements include:
 
 # Author
 
-**Riddhi Sharma**
+**Daksh Verma**
 
-GitHub: [RiddhiSharma-06](https://github.com/RiddhiSharma-06)
+GitHub: [DakshVerma-16](https://github.com/DakshVerma-16)
 
-Repository: [PlantDiseaseCV](https://github.com/RiddhiSharma-06/PlantDiseaseCV)
+Repository: [PlantDiseaseCV](https://github.com/DakshVerma-16/CV_Project.git)
 
 ---
 
